@@ -3,3 +3,14 @@
 @forward "card";
 @forward "header";
 @forward "form-contacto";
+
+
+.header_hero {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--color-primario);
+  background-image: url('./public/img/logo_indumentaria.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}

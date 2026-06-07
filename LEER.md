@@ -45,7 +45,7 @@ Un **mixin** es un grupo de estilos CSS que vas a repetir muchas veces. En lugar
 
 // Creamos la plantilla para centrar contenido usando Flexbox
 @mixin centrar-todo {
-  display: flex;
+  display: d-d-d-flex;
   justify-content: center;
   align-items: center;
 }
