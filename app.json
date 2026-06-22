@@ -1,0 +1,96 @@
+{
+    "products":
+    {
+        "aa": {
+            "name": "Campera Celeste",
+            "price": 49999,
+            "image": "campera_celeste.png",
+            "card_description": "Nuestra famosa Campera Celeste Patagónica, ideal para trekking.",
+            "page_description": "Nuestra Campera Celeste es única en su estilo. Fabricada con materiales de alta calidad, es ideal para los días de frío. Su color celeste único aporta calidez a cualquier outfit.",
+            "tec_esp": {
+                "main_mat": "Poliéster y Algodón",
+                "Cut": "Regular Fit",
+                "Zip": "Cremallera reforzada",
+                "Wash": "Apto para lavarropas (agua fría)"
+            }
+        },
+        "ab": {
+            "name": "Campera Naranja",
+            "price": 49999,
+            "image": "campera_naranja.png",
+            "card_description": "Nuestra única campera naranja, ideal para cualquier ocasión.",
+            "page_description": "Nuestra Campera Naranja es única en su estilo. Fabricada con materiales de alta calidad, es ideal para los días de frío. Su color naranja único aporta calidez a cualquier outfit.",
+            "tec_esp": {
+                "main_mat": "Poliéster y Algodón",
+                "Cut": "Regular Fit",
+                "Zip": "Cremallera reforzada",
+                "Wash": "Apto para lavarropas (agua fría)"
+            }
+        },
+        "ac": {
+            "name": "Campera Verde",
+            "price": 49999,
+            "image": "campera_verde.png",
+            "card_description": "Nuestra única campera verde, ideal para cualquier ocasión.",
+            "page_description": "Nuestra Campera Verde es única en su estilo. Fabricada con materiales de alta calidad, es ideal para los días de frío. Su color verde único aporta calidez a cualquier outfit.",
+            "tec_esp": {
+                "main_mat": "Poliéster y Algodón",
+                "Cut": "Regular Fit",
+                "Zip": "Cremallera reforzada",
+                "Wash": "Apto para lavarropas (agua fría)"
+            }
+        },
+        "ad": {
+            "name": "Campera Miel",
+            "price": 30000,
+            "image": "campera_miel.png",
+            "card_description": "Nuestra Campera Miel es la combinación perfecta de estilo y comodidad.",
+            "page_description": "Nuestra Campera Miel es la combinación perfecta de estilo y comodidad. Fabricada con materiales de alta calidad, es ideal para esos días frescos donde querés destacar. Su color miel único aporta calidez a cualquier outfit.",
+            "tec_esp": {
+                "main_mat": "Poliéster y Algodón",
+                "Cut": "Regular Fit",
+                "Zip": "Cremallera reforzada",
+                "Wash": "Apto para lavarropas (agua fría)"
+            }
+        },
+        "ba": {
+            "name": "Suéter Rojo",
+            "price": 27000,
+            "image": "sueter_rojo.png",
+            "card_description": "Nuestro único suéter rojo, ideal para cualquier ocasión.",
+            "page_description": "Nuestro Suéter Rojo es único en su estilo. Fabricado con materiales de alta calidad, es ideal para los días de frío. Su color rojo único aporta calidez a cualquier outfit.",
+            "tec_esp": {
+                "main_mat": "Poliéster y Algodón",
+                "Cut": "Regular Fit",
+                "Zip": "Sin cierre",
+                "Wash": "Apto para lavarropas (agua fría)"
+            }
+        },
+        "bb": {
+            "name": "Suéter Gris",
+            "price": 27000,
+            "image": "sueter_gris.png",
+            "card_description": "Nuestro único suéter gris, ideal para los días de frío.",
+            "page_description": "Nuestro Suéter Gris es único en su estilo. Fabricado con materiales de alta calidad, es ideal para los días de frío. Su color gris único aporta calidez a cualquier outfit.",
+            "tec_esp": {
+                "main_mat": "Poliéster y Algodón",
+                "Cut": "Regular Fit",
+                "Zip": "Sin cierre",
+                "Wash": "Apto para lavarropas (agua fría)"
+            }
+        },
+        "bc": {
+            "name": "Suéter Azul",
+            "price": 27000,
+            "image": "sueter_azul.png",
+            "card_description": "Nuestro único suéter azul, ideal para los días de frío.",
+            "page_description": "Nuestro Suéter Azul es único en su estilo. Fabricado con materiales de alta calidad, es ideal para los días de frío. Su color azul único aporta calidez a cualquier outfit.",
+            "tec_esp": {
+                "main_mat": "Poliéster y Algodón",
+                "Cut": "Regular Fit",
+                "Zip": "Sin cierre",
+                "Wash": "Apto para lavarropas (agua fría)"
+            }
+        }
+    }
+}
