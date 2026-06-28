@@ -1,6 +1,8 @@
 ## TRABAJO PRACTICO - WEB I
 # Integrantes:
-- Emiliano Cabanillas
+- Martinez Micaela
+- Sofia Flores
+- Sebastian Acevedo
 <!-- MODIFIQUEN ESTA PARTE CON SU NOMBRE -->
 
 # Tienda de Abrigos
@@ -20,17 +22,18 @@
     - Filtro
 - Contacto (Formulario)
 - Nosotros
+- App.json
+- Data.json
+- Prod.json
+- Script.js
 
 # Componentes
-- header / nav
-- Section / article
+- header
 - Card
 - Formulario
 - Footer
 
 # A definir
-- Nombre
 - Colores
-- Img de productos
 
 --------------------
