@@ -1,0 +1,13 @@
+{
+    "producto": {
+        "name": "sueter rojo",
+        "description": "Nuestro Sueter Rojo es único en su estilo. Fabricado con materiales de alta calidad, es ideal para los días de frío. Su color rojo único aporta calidez a cualquier outfit.",
+        "precio": "$27.000",
+        "especificaciones": {
+            "Material principal": "Poliéster y Algodón",
+            "Corte": "Regular Fit",
+            "Tipo de cierre": "Sin cierre",
+            "Lavado": "Apto para lavarropas (agua fría)"
+        }
+    }
+}
